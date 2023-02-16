@@ -1,6 +1,4 @@
-# Unit testing and Code Typing
-
-Unit testing with pytest, doctest, and code typing with mypy
+# Unit tests avec pytest, doctest; typage de code et mypy
 
 | Unit testing   | Code Typing   |
 |----|----|
