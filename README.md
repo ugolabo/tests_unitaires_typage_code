@@ -1,5 +1,3 @@
-# Unit tests avec `pytest`, `doctest`; typage de code et `mypy`
+# Tests unitaires et typage de code source
 
-| Unit testing   | Code Typing   |
-|----|----|
-| ![](img/port1.jpg) | ![](img/port2.jpg) |
+
