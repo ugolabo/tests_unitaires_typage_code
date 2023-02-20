@@ -4,7 +4,7 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 **Objectif:** poursuivre avec la programmation orientée objet et de l'algorithmique comme base des algorithmes de *Machine Learning* et de *Deep Learning*; maitriser les fondements des tests unitaires, aborder le typage d'un code source; appliquer les tests unitaires et le typage à un problème de satisfaction de contraintes (*CSP*); appliquer la programmation linéaire mixte à ce problème.
 
-[Cas de figure](#cas-de-figure-avec-pulp) de tests unitaires et de typage à la toute fin.
+[Cas de figure](#cas-de-figure-de-tests-unitaires-et-de-typage) de tests unitaires et de typage à la toute fin.
 
 1. Programmation orientée objet et plus : poursuivre avec la documentation du code avec les doctest; valider les classes, les constructeurs, les attributs et les méthodes avec des doctest et des pytest, améliorer le code source Python avec le typage des assignations et des résultats, puis valider avec Mypy
 2. Algorithmique et structures linéaires: aborder la programmation dynamique et la récursivité, les piles (stack), les files (queue) et leurs applications en programmation, en *Machine Learning* (arbres de décision, par exemple)
