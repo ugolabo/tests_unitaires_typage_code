@@ -33,7 +33,7 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 ## Cas de figure de tests unitaires et de typage
 
-Le cas de figure utilise un problème de satisfaction de contraintes (*CSP*) pour solutionner le problème classique des *8Queens*. Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire et mixte ainsi que de la recherche opérationnelle; on peut comparer leur performances avec des algorithmes d'optimisation plus récentes. Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
+Le cas de figure utilise un problème de satisfaction de contraintes (*CSP*) pour solutionner le problème classique des *nQueens*. Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire et mixte ainsi que de la recherche opérationnelle; on peut comparer leur performances avec des algorithmes d'optimisation plus récentes (ceux utilisés par PuLP et Python-MIP). Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
 
 
 
