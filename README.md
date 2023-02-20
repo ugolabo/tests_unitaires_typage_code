@@ -43,8 +43,8 @@ Le cas utilise un problème de satisfaction de contraintes (*CSP*) pour solution
 
 Les codes sources sont aussi typés pour contrôler les entrées et les sorties des objets; on peut valider le typage avec Mypy.
 
-Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire et mixte ainsi que de la recherche opérationnelle; on peut comparer leur performances avec des algorithmes d'optimisation plus récentes (ceux utilisés par PuLP et Python-MIP). Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
-
 Le fichier pres.html (adjacent à ce fichier README.md) montre des comparatifs de performance et démontre la vitesse de Python-MIP. L'évaluation avec MIP est faite avec le fichier nqueens_mip.py (adjacent à ce fichier README.md).
 
-??Backtracking, forward checking : coloration de territoires sur une carte, problèmes d'assignation, de planification, de transport, d'emballage
+Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire (PuLP et Python-MIP) et mixte (Python-MIP) ainsi que de la recherche opérationnelle. Les *CSP* ont été utilisés pour des problème de coloration de territoires sur une carte, d'assignation, de planification et de transport. Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
+
+<img src="img/graph1.jpg" alt="" width="250">
