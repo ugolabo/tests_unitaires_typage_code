@@ -14,8 +14,6 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 2. Algorithmique et structures linéaires: poursuivre avec la programmation dynamique et la récursivité, les piles (stacks), les files (queues) et leurs applications en programmation; travailler avec des piles et des files avec des fonctions récursives et des décorateurs
 
-<img src="img/schema_bouton.jpg" alt="" width="200">
-
 |    |    |    |
 |:---|:---|:---|
 | <img src="img/recursive.jpg" alt="" width="300">   | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
