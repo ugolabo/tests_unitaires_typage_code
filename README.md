@@ -37,9 +37,7 @@ Le fichier Recursion with Python.html (adjacent à ce fichier README.md) est une
 
 Le fichier pres.html (adjacent à ce fichier README.md) résumer le cas.
 
-|    |    | 
-|:---|:---|
-| <img src="img/nq1.jpg" alt="" width="250">   | <img src="img/graph1.jpg" alt="" width="250">   |
+<img src="img/nq1.jpg" alt="" width="250">
 
 Le cas utilise un problème de satisfaction de contraintes (*CSP*) pour solutionner le problème classique des *nQueens* (n étant le nombre de dames, de 3 à 8). Ce cas comporte un algorithme CSP générique (csp_v2.py) et son application au problème des *nQueens* (queens_v2.py). Les fichiers eva_....txt sont des évaluations de performance de deux approches: BS et BS2 (pour évaluer le nombre de lignes de codes que la solution d'un problème imprime). Des doctests sont associés à chaque fichier Python (doctest_....md). Comme les doctests servent aussi à documenter, il existe des versions HTML (doctest_....html) qui montrent une documentation minimale. Des pytests sont associés à chaque fichier Python (pytest_....py). La couverture des pytests est contenue dans le fichier coverage_test_csp.txt. Le fichier PNG est l'image finale obtenue à la fin de la dernière solution obtenue par csp_v2.py
 
