@@ -6,13 +6,29 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 [Cas de figure](#cas-de-figure-de-tests-unitaires-et-de-typage) de tests unitaires et de typage à la toute fin.
 
-1. Programmation orientée objet et plus : poursuivre avec la documentation du code avec les doctest; valider les classes, les constructeurs, les attributs et les méthodes avec des doctest et des pytest, améliorer le code source Python avec le typage des assignations et des résultats, puis valider avec Mypy
+1. Programmation orientée objet et plus: poursuivre avec la documentation du code avec les doctest; valider les classes, les constructeurs, les attributs et les méthodes avec des doctest et des pytest, améliorer le code source Python avec le typage des assignations et des résultats, puis valider avec Mypy
+
+<img src="img/schema_bouton.jpg" alt="" width="200">
+
 2. Algorithmique et structures linéaires: aborder la programmation dynamique et la récursivité, les piles (stack), les files (queue) et leurs applications en programmation, en *Machine Learning* (arbres de décision, par exemple)
-3. Algorithmique et structures complexes : aborder la programmation dynamique avec les structures complexes comme les arbres (arbre binomial, *Heap* et autres arbres), les graphes et leurs applications en programmation, en *Machine Learning* et *Deep Learning* (chaine de calculs de TensorFlow, par exemple); travailler avec un arbre (racine, nœuds, arêtes, algorithmes de calcul de hauteur, de profondeur, de taille, de largeur, algorithmes de traversée infixe, préfixe et suffixe, algorithmes  de recherche, d'insertion, de suppression, de mise à jour); travailler avec un graphe (nœuds, arcs, orientés ou non, pondérés ou non, matrice d'adjacence, algorithme de boucle ou cycle de déplacement, algorithmes de calcul en largeur, en profondeur, algorithmes de recherche du chemin le plus court comme A*, Dijkstra, etc., ajout de coûts ou une distance de déplacement, algorithmes de recherche informée par une heuristique avec Best-first, Greedy Best-First, A*, IDA*, RDFS, SMA*, hill-climbing, à faisceau, génétique, Dijkstra et une distance euclidienne, de Manhattan, etc.
-4. Tests unitaires : doctest pour les tests et la documentation du code sources, pytest pour les tests et les statistiques comme le rapport de couverture; aborder la matière des tests d'intégration, des tests fonctionnels
+
+<img src="img/schema_bouton.jpg" alt="" width="200">
+
+|   |   |   |
+|:---|:---|:---|
+| <img src="img/aima.jpg" alt="" width="250"> | <img src="img/recursive.jpg" alt="" width="300"> | <img src="img/astar.jpg" alt="" width="300">  |
+|    | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
+|    | <img src="img/participants_s.gif" alt="" width="300">  | <img src="img/participants_q.gif" alt="" width="300">  |
+
+3. Algorithmique et structures complexes: aborder la programmation dynamique avec les structures complexes comme les arbres (arbre binomial, *Heap* et autres arbres), les graphes et leurs applications en programmation, en *Machine Learning* et *Deep Learning* (chaine de calculs de TensorFlow, par exemple); travailler avec un arbre (racine, nœuds, arêtes, algorithmes de calcul de hauteur, de profondeur, de taille, de largeur, algorithmes de traversée infixe, préfixe et suffixe, algorithmes  de recherche, d'insertion, de suppression, de mise à jour); travailler avec un graphe (nœuds, arcs, orientés ou non, pondérés ou non, matrice d'adjacence, algorithme de boucle ou cycle de déplacement, algorithmes de calcul en largeur, en profondeur, algorithmes de recherche du chemin le plus court comme A*, Dijkstra, etc., ajout de coûts ou une distance de déplacement, algorithmes de recherche informée par une heuristique avec Best-first, Greedy Best-First, A*, IDA*, RDFS, SMA*, hill-climbing, à faisceau, génétique, Dijkstra et une distance euclidienne, de Manhattan, etc.
+6. Tests unitaires : doctest pour les tests et la documentation du code sources, pytest pour les tests et les statistiques comme le rapport de couverture; aborder la matière des tests d'intégration, des tests fonctionnels
+
+<img src="img/schema_bouton.jpg" alt="" width="200">
 
 ## Cas de figure de tests unitaires et de typage
 
 Le cas de figure utilise un problème de satisfaction de contraintes (*CSP*) pour solutionner le problème classique des *8Queens*. Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire et mixte ainsi que de la recherche opérationnelle; on peut comparer leur performances avec des algorithmes d'optimisation plus récentes. Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
+
+
 
 ??Backtracking, forward checking : coloration de territoires sur une carte, problèmes d'assignation, de planification, de transport, d'emballage
