@@ -8,7 +8,9 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 1. Programmation orientée objet et plus: poursuivre avec la documentation du code avec les doctest; valider les classes, les constructeurs, les attributs et les méthodes avec des doctests et des pytests, produire le rapport de couverture des pytests; aborder la matière des tests d'intégration et des tests fonctionnels; améliorer le code source Python avec le typage des assignations et des résultats, puis valider avec Mypy
 
-<img src="img/schema_bouton.jpg" alt="" width="200">
+|    |    |    |
+|:---|:---|:---|
+|    |    |    |
 
 2. Algorithmique et structures linéaires: poursuivre avec la programmation dynamique et la récursivité, les piles (stacks), les files (queues) et leurs applications en programmation, en *Machine Learning* (comme les arbres de décision, par exemple), travailler avec des
 
