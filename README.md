@@ -10,7 +10,7 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 |    |    |    |
 |:---|:---|:---|
-|    |    |    |
+| <img src="img/tests.jpg" alt="" width="200">   | <img src="img/tests2.jpg" alt="" width="200">   | <img src="img/scrum_tests.jpg" alt="" width="200">   |
 
 2. Algorithmique et structures linéaires: poursuivre avec la programmation dynamique et la récursivité, les piles (stacks), les files (queues) et leurs applications en programmation, en *Machine Learning* (comme les arbres de décision, par exemple), travailler avec des
 
