@@ -31,10 +31,18 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 | <img src="img/graph1.gif" alt="" width="300">   | <img src="img/graph2.gif" alt="" width="300">   | <img src="img/astar2.jpg" alt="" width="300">   |
 |    |    | <img src="img/astar.jpg" alt="" width="300">   |
 
+Le fichier Recursion with Python.html (adjacent à ce fichier README.md) est une compilation de codes sources sur des algorithmes et des structures.
+
 ## Cas de figure de tests unitaires et de typage
 
-Le cas de figure utilise un problème de satisfaction de contraintes (*CSP*) pour solutionner le problème classique des *nQueens*. Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire et mixte ainsi que de la recherche opérationnelle; on peut comparer leur performances avec des algorithmes d'optimisation plus récentes (ceux utilisés par PuLP et Python-MIP). Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
+Le fichier pres.html (adjacent à ce fichier README.md) résumer le cas.
 
+Le cas utilise un problème de satisfaction de contraintes (*CSP*) pour solutionner le problème classique des *nQueens* (n étant le nombre de dames, de 3 à 8). Ce cas comporte un algorithme CSP générique (csp_v2.py) et son application au problème des *nQueens* (queens_v2.py). Les fichiers eva_....txt sont des évaluations de performance de deux approches: BS et BS2 (pour évaluer le nombre de lignes de codes que la solution d'un problème imprime). Des doctests sont associés à chaque fichier Python (doctest_....md). Comme les doctests servent aussi à documenter, il existe des versions HTML (doctest_....html) qui montrent une documentation minimale. Des pytests sont associés à chaque fichier Python (pytest_....py). La couverture des pytests est contenue dans le fichier coverage_test_csp.txt. Le fichier PNG est l'image finale obtenue à la fin de la dernière solution obtenue par csp_v2.py
 
+Les codes sources sont aussi typés pour contrôler les entrées et les sorties des objets; on peut valider le typage avec Mypy.
+
+Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire et mixte ainsi que de la recherche opérationnelle; on peut comparer leur performances avec des algorithmes d'optimisation plus récentes (ceux utilisés par PuLP et Python-MIP). Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
+
+Le fichier pres.html (adjacent à ce fichier README.md) montre des comparatifs de performance et démontre la vitesse de Python-MIP. L'évaluation avec MIP est faite avec le fichier nqueens_mip.py (adjacent à ce fichier README.md).
 
 ??Backtracking, forward checking : coloration de territoires sur une carte, problèmes d'assignation, de planification, de transport, d'emballage
