@@ -6,11 +6,11 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 [Cas de figure](#cas-de-figure-de-tests-unitaires-et-de-typage) de tests unitaires et de typage à la toute fin.
 
-1. Programmation orientée objet et plus: poursuivre avec la documentation du code avec les doctest; valider les classes, les constructeurs, les attributs et les méthodes avec des doctest et des pytest, améliorer le code source Python avec le typage des assignations et des résultats, puis valider avec Mypy
+1. Programmation orientée objet et plus: poursuivre avec la documentation du code avec les doctest; valider les classes, les constructeurs, les attributs et les méthodes avec des doctests et des pytests, produire le rapport de couverture des pytests; aborder la matière des tests d'intégration et des tests fonctionnels; améliorer le code source Python avec le typage des assignations et des résultats, puis valider avec Mypy
 
 <img src="img/schema_bouton.jpg" alt="" width="200">
 
-2. Algorithmique et structures linéaires: aborder la programmation dynamique et la récursivité, les piles (stack), les files (queue) et leurs applications en programmation, en *Machine Learning* (arbres de décision, par exemple)
+2. Algorithmique et structures linéaires: poursuivre avec la programmation dynamique et la récursivité, les piles (stacks), les files (queues) et leurs applications en programmation, en *Machine Learning* (comme les arbres de décision, par exemple), travailler avec des
 
 <img src="img/schema_bouton.jpg" alt="" width="200">
 
@@ -20,8 +20,7 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 |    | <img src="img/stack.jpg" alt="" width="300">  | <img src="img/queue.jpg" alt="" width="300">  |
 |    | <img src="img/participants_s.gif" alt="" width="300">  | <img src="img/participants_q.gif" alt="" width="300">  |
 
-3. Algorithmique et structures complexes: aborder la programmation dynamique avec les structures complexes comme les arbres (arbre binomial, *Heap* et autres arbres), les graphes et leurs applications en programmation, en *Machine Learning* et *Deep Learning* (chaine de calculs de TensorFlow, par exemple); travailler avec un arbre (racine, nœuds, arêtes, algorithmes de calcul de hauteur, de profondeur, de taille, de largeur, algorithmes de traversée infixe, préfixe et suffixe, algorithmes  de recherche, d'insertion, de suppression, de mise à jour); travailler avec un graphe (nœuds, arcs, orientés ou non, pondérés ou non, matrice d'adjacence, algorithme de boucle ou cycle de déplacement, algorithmes de calcul en largeur, en profondeur, algorithmes de recherche du chemin le plus court comme A*, Dijkstra, etc., ajout de coûts ou une distance de déplacement, algorithmes de recherche informée par une heuristique avec Best-first, Greedy Best-First, A*, IDA*, RDFS, SMA*, hill-climbing, à faisceau, génétique, Dijkstra et une distance euclidienne, de Manhattan, etc.
-6. Tests unitaires : doctest pour les tests et la documentation du code sources, pytest pour les tests et les statistiques comme le rapport de couverture; aborder la matière des tests d'intégration, des tests fonctionnels
+3. Algorithmique et structures complexes: aborder les algorithmes les arbres (arbre binomial, *Heap* et autres arbres), les graphes et leurs applications en programmation, en *Machine Learning*, en *Deep Learning* (chaine de calculs de TensorFlow, par exemple); travailler avec des arbres (racine, nœuds, arêtes, algorithmes de calcul de hauteur, de profondeur, de taille, de largeur, algorithmes de traversée infixe, préfixe et suffixe, algorithmes  de recherche, d'insertion, de suppression, de mise à jour); travailler avec un graphe (nœuds, arcs, orientés ou non, pondérés ou non, matrice d'adjacence, algorithme de boucle ou cycle de déplacement, algorithmes de calcul en largeur, en profondeur, algorithmes de recherche du chemin le plus court comme A*, Dijkstra, etc., ajout de coûts ou une distance de déplacement, algorithmes de recherche informée par une heuristique avec Best-first, Greedy Best-First, A*, IDA*, RDFS, SMA*, hill-climbing, à faisceau, génétique, Dijkstra et une distance euclidienne, de Manhattan, etc.
 
 <img src="img/schema_bouton.jpg" alt="" width="200">
 
