@@ -1,0 +1,30 @@
+Code
+
+Tiré de
+- https://www.manning.com/books/classic-computer-science-problems-in-python
+
+GitHub
+- https://github.com/davecom/ClassicComputerScienceProblemsInPython
+- https://github.com/davecom/ClassicComputerScienceProblemsInPython/tree/8a164b6c2153cecf744a742c691274c538444200/Chapter3
+
+
+CSP
+
+- https://samgriesemer.com/Constraint_satisfaction_problems
+- https://www.tutorialandexample.com/constraint-satisfaction-problems-in-artificial-intelligence
+- https://samgriesemer.com/Constraint_satisfaction_problems
+
+nQueens
+
+- https://en.wikipedia.org/wiki/Eight_queens_puzzle
+- https://durangobill.com/N_Queens.html
+- https://www.codespeedy.com/find-all-distinct-solutions-to-n-queens-problem-in-java/
+
+Échecs
+
+https://www.pychess.org/editor/chess
+
+LiDAR et SONAR
+
+https://www.instructables.com/Benewake-LiDAR-TFmini-Complete-Guide/
+https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6

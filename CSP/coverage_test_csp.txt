@@ -1,0 +1,31 @@
+============================= test session starts =============================
+platform win32 -- Python 3.9.13, pytest-7.1.2, pluggy-1.0.0 -- C:\Users\Usager\anaconda3\python.exe
+cachedir: .pytest_cache
+rootdir: 
+plugins: anyio-3.3.4, cov-3.0.0, mock-3.7.0
+collecting ... collected 8 items
+
+pytest_csp.py::test_csp_4_variables PASSED                                 [ 12%]
+pytest_csp.py::test_csp_5_variables PASSED                                 [ 25%]
+pytest_csp.py::test_csp_4_domains PASSED                                   [ 37%]
+pytest_csp.py::test_csp_5_domains PASSED                                   [ 50%]
+pytest_csp.py::test_csp_4_constraints PASSED                               [ 62%]
+pytest_csp.py::test_csp_5_constraints PASSED                               [ 75%]
+pytest_csp.py::test_add_constraint1 PASSED                                 [ 87%]
+pytest_csp.py::test_backtracking_search PASSED                             [100%]
+
+============================== warnings summary ===============================
+..\..\..\..\anaconda3\lib\site-packages\seaborn\rcmod.py:82
+  C:\Users\Usager\anaconda3\lib\site-packages\seaborn\rcmod.py:82: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+    if LooseVersion(mpl.__version__) >= "3.0":
+
+..\..\..\..\anaconda3\lib\site-packages\setuptools\_distutils\version.py:346
+  C:\Users\Usager\anaconda3\lib\site-packages\setuptools\_distutils\version.py:346: DeprecationWarning: distutils Version classes are deprecated. Use packaging.version instead.
+    other = LooseVersion(other)
+
+test_csp.py:16
+  C:\Users\Usager\Documents\Ahuntsic\_420-316-AH INTELLIGENCE ARTIFICIELLE II\Projet\test_csp.py:16: PytestCollectionWarning: cannot collect test class 'TestConstraint' because it has a __init__ constructor (from: test_csp.py)
+    class TestConstraint(script.Constraint[int, int]):
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================== 8 passed, 3 warnings in 4.44s ========================
