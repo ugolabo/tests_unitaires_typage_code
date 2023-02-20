@@ -23,8 +23,8 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 
 |    |    |    |
 |:---|:---|:---|
-| <img src="img/binary-search-tree-degenerating-demo-animation.gif" alt="" width="200">   | <img src="img/binary-search-tree-insertion-animation.gif" alt="" width="200">   | <img src="img/binary-search-tree-sorted-array-animation.gif" alt="" width="200">   |
-|    |    | <img src="img/optimal-binary-search-tree-from-sorted-array.gif" alt="" width="200">   |
+| <img src="img/binary-search-tree-degenerating-demo-animation.gif" alt="" width="300">   | <img src="img/binary-search-tree-insertion-animation.gif" alt="" width="300">   | <img src="img/binary-search-tree-sorted-array-animation.gif" alt="" width="300">   |
+|    |    | <img src="img/optimal-binary-search-tree-from-sorted-array.gif" alt="" width="300">   |
 
 ## Cas de figure de tests unitaires et de typage
 
