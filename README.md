@@ -31,11 +31,11 @@ Un contenu complémentaire à la **Programmation linéaire, recherche opération
 | <img src="img/graph1.gif" alt="" width="300">   | <img src="img/graph2.gif" alt="" width="300">   | <img src="img/astar2.jpg" alt="" width="300">   |
 |    |    | <img src="img/astar.jpg" alt="" width="300">   |
 
-Le fichier Recursion with Python.html (adjacent à ce fichier README.md) est une compilation de codes sources sur des algorithmes et des structures.
+Le fichier Recursion with Python.html (adjacent à ce fichier README.md; télécharger tout le repo pour pouvoir l'ouvrir) est une compilation de codes sources sur des algorithmes et des structures.
 
 ## Cas de figure de tests unitaires et de typage
 
-Le fichier pres.html (adjacent à ce fichier README.md) résumer le cas.
+Le fichier pres.html (adjacent à ce fichier README.md; télécharger tout le repo pour pouvoir l'ouvrir) résumer le cas.
 
 <img src="img/nq1.jpg" alt="" width="250">
 
@@ -43,7 +43,7 @@ Le cas utilise un problème de satisfaction de contraintes (*CSP*) pour solution
 
 Les codes sources sont aussi typés pour contrôler les entrées et les sorties des objets; on peut valider le typage avec Mypy.
 
-Le fichier pres.html (adjacent à ce fichier README.md) montre des comparatifs de performance et démontre la vitesse de Python-MIP. L'évaluation avec MIP est faite avec le fichier nqueens_mip.py (adjacent à ce fichier README.md).
+Le fichier pres.html (adjacent à ce fichier README.md; télécharger tout le repo pour pouvoir l'ouvrir) montre des comparatifs de performance et démontre la vitesse de Python-MIP. L'évaluation avec MIP est faite avec le fichier nqueens_mip.py (adjacent à ce fichier README.md).
 
 Les *CSP* datent, mais ce sont des algorithmes proches de la programmation linéaire (PuLP et Python-MIP) et mixte (Python-MIP) ainsi que de la recherche opérationnelle. Les *CSP* ont été utilisés pour des problème de coloration de territoires sur une carte, d'assignation, de planification et de transport. Tous ces algorithmes font partie, avec les approches à base de statistiques, du *Machine Learning*.
 
